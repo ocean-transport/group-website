@@ -1,0 +1,19 @@
+- name: Ocean Circulation and Mixing
+  pic: talleyfig.jpg
+  more: papers
+  description: "An intricate network of currents circulates water through the global ocean. This circulation is important for Earth's climate because it transports heat, salt, and dissolved chemicals (such as carbon and oxygen) from the surface, where they are in contact with the atmosphere, to the deep abyss, where they can be isolated and stored for centuries or more. One of my main goals is to understand what controls the strength and structure of this global circulation."
+
+- name: Mesoscale Dynamics
+  pic: channel.jpg
+  more: papers
+  description: "On scales of 10-500 km, the ocean is a twisted tangle of eddies, filaments, and fronts. The behavior of these turbulent flows is dynamically similar to weather systems of the atmosphere. I am fascinated by the complexity of the ocean mesoscale and have made it a central focus of my research. In particular, I would like to gain a better understanding of how energy flows through the mesoscale&mdash;how and where eddies extract potential energy from the background flow and how they dissipate their kinetic energy. Better understanding of the mesoscale energy cycle will lead to better representation of sub-grid mixing in climate models."
+
+- name: Southern Ocean and Climate
+  pic: acc.jpg
+  more: papers
+  description: "The Southern Ocean surrounds Antarctica and connects the other three major ocean basins (Atlantic, Pacific, and Indian). It is the home to the world's strongest current, the Antartic Circumpolar Curent, and is full of mesoscale eddies. Because so much water comes together here, the Souhern Ocean is central to the global circulation, but the intense mesoscale turbulence (and a historical lack of observations), make it very challenging to understand the flow. Improved understanding of the drivers of Southern Ocean circulation will help improve future climate predictions and will also shed light on past climates, such as glacial cycles."
+
+- name: Big Data Analysis
+  pic: dask.png
+  more: code
+  description: "Scientific datasets are growing in size at an exponential rate, and oceanographic data is no exception. New high-resolution satellite observations and autonomous observing platforms are producing data faster than we can analyze it. Global eddy-resolving ocean models in particular can easily generate terabytes and petabytes of data. Our usual data analysis tools break down when confronted with these data volumes. I am actively engaged in developing open-source software tools to overcome this barrier and enable our community to efficiently process oceanographic Big Data."
