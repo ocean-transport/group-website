@@ -12,6 +12,8 @@ LDEO Ocean Transport Group
 
    mission
    research
+   teaching
+   cds_lab
    people
    guide
    publications
