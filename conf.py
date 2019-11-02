@@ -98,7 +98,7 @@ html_theme = 'alabaster'
 # documentation.
 #
 html_theme_options = {
-    'logo': 'otg_logo.png',
+    'logo': 'otg_logo_blue.svg',
     'fixed_sidebar': True
 }
 

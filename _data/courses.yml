@@ -1,0 +1,38 @@
+- title: Research Computing in Earth Science
+  pic: delaunay.png
+  url: "https://github.com/rabernat/research_computing"
+  description: "An intensive and hands-on immersion in the application on modern
+    research computing practices to data analysis and visualization, using
+    datasets and methods drawn from across Earth Science."
+  offered: Fall 2017, Fall 2018
+
+- title: Ocean Dynamics
+  pic: internal_wave.gif
+  description: Advanced topics in in ocean circulation theory
+  offered: Spring 2017
+
+- title: Introduction to Physical Oceanography
+  pic: intro_po.jpg
+  url: "http://www.columbia.edu/cu/bulletin/uwb/subj/EESC/W4210-20151-001/"
+  description: "Physical properties of seawater, ocean water masses and their
+    distribution, sea-air interaction, ocean general circulation, mixing
+    processes. Co-taught with Arnold Gordon"
+  offered: Fall 2013, Fall 2014, Fall 2015, Fall 2017, Fall 2018
+
+- title: Geophysical Fluid Dynamics
+  pic: vortex_rollup.png
+  url: "http://www.columbia.edu/cu/bulletin/uwb/subj/EESC/W4210-20151-001/"
+  description: "Fundamental concepts in the dynamics of rotating stratified
+    flows. Geostrophic and hydrostatic balances, potential vorticity, f and
+    beta plane approximations, gravity and Rossby waves, geostrophic adjustment
+    and quasigeostrophy, baroclinic and barotropic instabilities."
+  offered: Spring 2015, Spring 2016
+
+- title: Python for Scientific Computing
+  pic: scipy-stuff.png
+  url: "https://github.com/rabernat/python_teaching"
+  description: "An informal introduction to python, designed to take a novice
+    from zero to fully functional in about eight hours. Topics include core
+    python language, IPython notebooks, numpy, matplotlib, Basemap, pandas,
+    and xarray."
+  offered: September 2014, August 2015

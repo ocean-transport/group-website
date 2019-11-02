@@ -46,3 +46,15 @@ Undergrad_Students:
 Visiting_Students:
   - name: Tongya Liu
     email: liutongya@sio.org.cn
+
+Alumni:
+  - name: Anirban Sinha
+    position: Ph.D. Student
+    current_position: Postdoc at Caltech
+    github: anirban89
+
+  - name: Takaya Uchida
+    position: Ph.D. Student
+    website: https://roxyboy.github.io/
+    linkedin: takaya-uchida-3a2721b4
+    github: roxyboy
