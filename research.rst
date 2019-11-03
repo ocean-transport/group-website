@@ -8,8 +8,6 @@ Ocean Circulation and Mixing
    :alt: Ocean Circulation
    :class: float-right
 
-   Ocean Circulation
-
 An intricate network of currents circulates water through the global
 ocean. This circulation is important for Earth’s climate because it
 transports heat, salt, and dissolved chemicals (such as carbon and
@@ -24,8 +22,6 @@ Mesoscale Dynamics
 .. figure:: _static/channel.jpg
    :alt: Channel
    :class: float-right
-
-   Channel
 
 On scales of 10-500 km, the ocean is a twisted tangle of eddies,
 filaments, and fronts. The behavior of these turbulent flows is
@@ -62,8 +58,6 @@ Big Data Analysis
 .. figure:: _static/dask.png
    :alt: Dask
    :class: float-right
-
-   Dask
 
 Scientific datasets are growing in size at an exponential rate, and
 oceanographic data is no exception. New high-resolution satellite

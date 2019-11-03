@@ -20,9 +20,15 @@ We are also affiliated with the Columbia `Data Science Institute`_.
 
    <div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/6545625/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>
 
+.. raw:: html
+
+   <a class="twitter-timeline" data-height="800" href="https://twitter.com/rabernat?ref_src=twsrc%5Etfw">Tweets by rabernat</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Website Contents
+----------------
+
 .. toctree::
    :maxdepth: 2
-   :caption: Website Contents:
 
    research
    teaching
