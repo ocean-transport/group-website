@@ -9,4 +9,4 @@ script:
   - set -e
   - make html
   - pip install doctr
-  - doctr deploy --built-docs _build/html --deploy-repo ocean-transport/ocean-transport.github.io
+  - doctr deploy --built-docs _build/html --deploy-repo ocean-transport/ocean-transport.github.io .
