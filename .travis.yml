@@ -1,0 +1,10 @@
+env:
+  global:
+    # Doctr deploy key for ocean-transport/ocean-transport.github.io
+    - secure: "J9kg5oXnnKigxMvtl9R2gIW1Iurr0pZb6DQaSI0qpRTbpespe+kthm/XGfz2Dg1TR08taxkUREbvb6+yrkjFmuGtBoRkeaak9a5D/YwKRWK6rCPQtwqMzOpjqM9b6rXKHEcHomD1v29jxQjv9cIXH13D+aMTyrPQi517tXP6nSURcBEG+H0QWhPk+fQ2QMN0o4ZCS0jAnAxt4NPitY82RQwPpRbS5L04TZ6p3QrmSrq/hinFotgXoO4R6bAWRxvH1D3qGCjSe2HFImLloVA4NwUlosK9YYgCPOJNBHZT4zHNuuhVuXmQh+tzpOsNG5LF2yrjdvUPT61RoB8e7b0pllwiBlXmzedhFIkIs0slayMfby709PlEuzdiCdl3a/G8CkR/fAoClJbBoG6csZUdCYfwLfIujvhzX/NnAcJ2gDNXy8jGd8K02j+7cpxETXKwQ1S6FALbkbGor1yfPho0C/c49vT3o/4YOJjesWZZ2r6i/bVtBw2kh33DWZVBwCb+7mTU/iNapnHorFa9XDc9MD+YtuWL78Ruh2CLzjUxvhhbwgLJ8l3I8QgXEfkSQHM8w9SkEKpgLLzMytlEJHKp9rbbP4qrKQmMa3k1x4M7agJQ4ezxaFXLF2Udem3+L7IuI6ph3JvLk/fhaA6jRyDlzs7Q/UikjRJZD+fD/ylj2Ik="
+
+script:
+  - set -e
+  - make html
+  - pip install doctr
+  - doctr deploy --built-docs _build/html --deploy-repo ocean-transport/ocean-transport.github.io 
