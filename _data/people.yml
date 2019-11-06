@@ -44,7 +44,7 @@ current:
   Undergrad_Students:
     - name: Scout Jiang
       pronouns: she / her
-      
+
 alumni:
   - name: Anirban Sinha
     position: Ph.D. Student, 2014-2019
@@ -62,3 +62,8 @@ alumni:
     position: Visiting Student, 2018-2019
     current_position: Ph.D. student, Zhejiang University
     email: liutongya@sio.org.cn
+
+  - name: Sjoerd Groeskamp
+    position: Postdoc, 2014-2016
+    current_position: Postdoc, University of New South Wales
+    website: https://www.sjoerdgroeskamp.com
