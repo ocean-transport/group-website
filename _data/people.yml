@@ -25,9 +25,17 @@ current:
   Postdocs:
     - name: Spencer Jones
       pronouns: he / him
+      pic: spencer.jpg
+      bio: >
+        Spencer is a postdoc in the Ocean Transport Group. 
+        He studies the global ocean circulation and large-scale effects of ocean mixing. 
+        Spencer also enjoys reading and going to the theater. 
       email: spencerj@ldeo.columbia.edu
       website: https://cspencerjones.github.io/
+      scholar: PaYh9SIAAAAJ
       github: cspencerjones
+      orcid: 0000-0003-1094-0306
+      twitter: CSpencerJones
 
     - name: Mu Xu
       pronouns: he / him
