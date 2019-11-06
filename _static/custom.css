@@ -45,3 +45,9 @@ div.section::after {
   clear: both;
   display: table;
 }
+
+th, td {
+  vertical-align: top;
+  padding: 5px;
+  border-bottom: 1px solid #ddd;
+}

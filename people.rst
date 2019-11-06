@@ -17,7 +17,7 @@ Group Members
 
     {% endif %}
     {{ person.name }}
-    ~~~~~~~~~~~~~~~~~
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
     {% if person.email %}
     {{ person.email }}
@@ -38,7 +38,6 @@ Group Members
     .. image:: https://img.shields.io/static/v1?label=&message=Google%20Scholar&color=gray&style=flat-square&logo=google-scholar
        :alt: Google Scholar
        :target: https://scholar.google.com/citations?user={{ person.scholar }}
-
     {% endif %}
 
     {% if person.github %}
@@ -53,6 +52,12 @@ Group Members
         :target: https://twitter.com/{{ person.twitter }}
     {% endif %}
 
+    {% if person.linkedin %}
+    .. image:: https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin
+       :alt: Google Scholar
+       :target: https://www.linkedin.com/in/{ person.linkedin }}
+    {% endif %}
+
     {% if person.website %}
     .. image:: https://img.shields.io/website?style=flat-square&url={{ person.website|urlencode }}
         :alt: Website
@@ -62,5 +67,26 @@ Group Members
     {{ person.bio }}
 
     {% endfor %}
-
     {% endfor %}
+
+    Alumni
+    ------
+
+.. jinja:: alumni
+
+    .. raw:: html
+
+       <table>
+        <tr>
+         <th>Name</th>
+         <th>Position Here</th>
+         <th>Position Now</th>
+        </tr>
+        {% for person in alumni %}
+        <tr>
+          <td><a href="{{ person.website }}">{{ person.name }}</a></td>
+          <td>{{ person.position }}</td>
+          <td>{{ person.current_position }}</td>
+        </tr>
+        {% endfor %}
+        </table>

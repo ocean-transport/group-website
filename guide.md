@@ -1,6 +1,6 @@
 # Participation Guide
 
-This is the first draft of an evolving guide on how to participate in Ryan Abernathey's research group.
+This is an evolving guide on how to participate in the Ocean Transport Group.
 This document borrows heavily from similar efforts by colleagues such as
 [Katy Huff](http://arfc.npre.illinois.edu/manual)
 and [Baylor Fox Kemper](http://www.geo.brown.edu/research/Fox-Kemper/pubs/)

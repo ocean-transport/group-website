@@ -13,18 +13,14 @@ current:
       github: rabernat
       orcid: 0000-0001-5999-4917
       twitter: rabernat
-       # - title: envelope
-       #   url: mailto:rpa@ldeo.columbia.edu
-       # - title: twitter
-       #   url: http://twitter.com/rabernat
-       # - title: linkedin
-       #   url: https://www.linkedin.com/pub/ryan-abernathey/52/706/32a
-       # - title: vimeo
-       #   url: https://vimeo.com/user3588357
-       # - title: github
-       #   url: http://github.com/rabernat
-       # - title: bitbucket
-       #   url: http://bitbucket.org/ryanaberanthey
+      linkedin: ryan-abernathey-32a70652
+
+  Software_Engineers:
+    - name: Charles Blackmon-Luca
+      pronouns: he / him
+      pic: charles.jpg
+      github: charlesbluca
+      linkedin: charlesbluca
 
   Postdocs:
     - name: Spencer Jones
@@ -34,32 +30,35 @@ current:
       github: cspencerjones
 
     - name: Mu Xu
+      pronouns: he / him
       email: muxu@ldeo.columbia.edu
       linkedin: mu-xu-9305a864
 
   Grad_Students:
     - name: Shanice Bailey
+      pronouns: she / her
       pic: bailey.jpg
       email: stb2145@columbia.edu
       github: stb2145
 
-
   Undergrad_Students:
-    - name: Scout
-
-  Visiting_Students:
-    - name: Tongya Liu
-      email: liutongya@sio.org.cn
-
+    - name: Scout Jiang
+      pronouns: she / her
+      
 alumni:
   - name: Anirban Sinha
-    position: Ph.D. Student
-    current_position: Postdoc at Caltech
+    position: Ph.D. Student, 2014-2019
+    current_position: Postdoc, Caltech
     github: anirban89
 
   - name: Takaya Uchida
-    position: Ph.D. Student
+    position: Ph.D. Student, 2014-2019
     website: https://roxyboy.github.io/
-    current_position: Postdoc in Grenoble
+    current_position: Postdoc, Université Grenoble Alpes
     linkedin: takaya-uchida-3a2721b4
     github: roxyboy
+
+  - name: Tongya Liu
+    position: Visiting Student, 2018-2019
+    current_position: Ph.D. student, Zhejiang University
+    email: liutongya@sio.org.cn
