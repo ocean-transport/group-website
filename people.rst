@@ -55,7 +55,7 @@ Group Members
     {% if person.linkedin %}
     .. image:: https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin
        :alt: Google Scholar
-       :target: https://www.linkedin.com/in/{ person.linkedin }}
+       :target: https://www.linkedin.com/in/{{ person.linkedin }}
     {% endif %}
 
     {% if person.website %}
