@@ -19,6 +19,11 @@ current:
     - name: Charles Blackmon-Luca
       pronouns: he / him
       pic: charles.jpg
+      bio: >
+        Charles is a software engineer in the Ocean Transport Group.
+        His work is primarily focused on Pangeo, an open source community platform for big data geoscience.
+        His interests include cloud-based data science, biking, and gaming.
+      email: c.blackmon@columbia.edu
       github: charlesbluca
       linkedin: charlesbluca
 
