@@ -49,5 +49,9 @@ We plan to cultivate the following principles:
 
 ## Open Positions
 
-There are several openings for postdocs, research scientists, and research software engineers.
-Formal job postings will be released soon; in the meantime, email [rpa@ldeo.columbia.edu](mailto:rpa@ldeo.columbia.edu) for more information.
+There are several open positions within the CDS lab.
+
+- **Software Engineer**, Numerical Algorithms and Scientific Python (link to job ad)
+- **Software Engineer**, Cloud Computing and Data DevOps (link to job ad)
+- **Associate Research Scientist**, Physical Oceanography (link to job ad)
+- **2 x Postdocs**, Physical Oceanograpy (email [rpa@ldeo.columbia.edu](mailto:rpa@ldeo.columbia.edu) for more information on postdoc positions)
