@@ -50,7 +50,11 @@ current:
   Grad_Students:
     - name: Shanice Bailey
       pronouns: she / her
-      pic: bailey.jpg
+      pic: shanice.jpeg
+      bio: >
+        Shanice is a graduate student in the Ocean Transport Group.
+        She currently studies bottom water formation and the internal dynamics of the Weddell Gyre.
+        Shanice also enjoys boxing, hiking, and watching documentaries. 
       email: stb2145@columbia.edu
       github: stb2145
 
