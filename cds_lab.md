@@ -51,7 +51,7 @@ We plan to cultivate the following principles:
 
 There are several open positions within the CDS lab.
 
-- **Software Engineer**, Numerical Algorithms and Scientific Python (link to job ad)
-- **Software Engineer**, Cloud Computing and Data DevOps (link to job ad)
-- **Associate Research Scientist**, Physical Oceanography (link to job ad)
-- **2 x Postdocs**, Physical Oceanograpy (email [rpa@ldeo.columbia.edu](mailto:rpa@ldeo.columbia.edu) for more information on postdoc positions)
+- **Software Engineer**, Numerical Algorithms and Scientific Python ([apply online](https://opportunities.columbia.edu/en-us/job/504791/software-engineer))
+- **Software Engineer**, Cloud Computing and Data DevOps ([apply online](https://opportunities.columbia.edu/en-us/job/504792/engineerdevelopment-ops))
+- **Associate Research Scientist**, Physical Oceanography ([apply online](https://pa334.peopleadmin.com/postings/4716))
+- **2 x Postdocs**, Physical Oceanography (email [rpa@ldeo.columbia.edu](mailto:rpa@ldeo.columbia.edu) for more information on postdoc positions)
