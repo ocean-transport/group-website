@@ -46,6 +46,19 @@ current:
       pronouns: he / him
       email: muxu@ldeo.columbia.edu
       linkedin: mu-xu-9305a864
+      
+    - name: Paige Martin
+      pronouns: she / her
+      pic: paige.jpg
+      bio: >
+        Paige is a postdoc in the Ocean Transport Group and is currently based at the Australian National University. 
+        She studies multi-scale air-sea interaction in coupled climate models. 
+        Paige also enjoys doing musical theater, aerial arts, and handstands. 
+      email: paigemar@umich.edu
+      github: paigem
+      orcid: 0000-0003-3538-633X
+      twitter: SciencePaige
+      linkedin: paige-martin-phd
 
   Grad_Students:
     - name: Shanice Bailey
