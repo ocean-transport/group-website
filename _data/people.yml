@@ -14,6 +14,20 @@ current:
       orcid: 0000-0001-5999-4917
       twitter: rabernat
       linkedin: ryan-abernathey-32a70652
+      
+  Research Scientists:
+    - name: Julius Busecke
+      pronouns: he / him
+      pic: julius.jpg
+      bio: >
+        Julius is an assistant research scientist in the Climate Data Science Lab. He is an oceanographer interested in ocean physics and biogeochemistry using a variety of tools and datasets.
+        In his freetime he enjoys photography, biking and climbing.
+      github: jbusecke
+      twitter: JuliusBusecke
+      website: http://www.juliusbusecke.com
+      orcid: 0000-0001-8571-865X
+      scholar: nXQo4RkAAAAJ
+      
 
   Software_Engineers:
     - name: Charles Blackmon-Luca
