@@ -58,7 +58,7 @@ current:
       
     - name: Paige Martin
       pronouns: she / her
-      pic: paige.jpg
+      pic: paige_crop.jpg
       bio: >
          Paige is a postdoc in the Climate Data Science Lab and is currently based at the Australian National University. 
          She likes to use Python and open-source tools to study coupled ocean-atmosphere dynamics.
