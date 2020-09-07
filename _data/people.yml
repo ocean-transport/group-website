@@ -55,11 +55,6 @@ current:
       github: cspencerjones
       orcid: 0000-0003-1094-0306
       twitter: CSpencerJones
-
-    - name: Mu Xu
-      pronouns: he / him
-      email: muxu@ldeo.columbia.edu
-      linkedin: mu-xu-9305a864
       
     - name: Paige Martin
       pronouns: she / her
@@ -73,6 +68,11 @@ current:
       orcid: 0000-0003-3538-633X
       twitter: SciencePaige
       linkedin: paige-martin-phd
+
+    - name: Mu Xu
+      pronouns: he / him
+      email: muxu@ldeo.columbia.edu
+      linkedin: mu-xu-9305a864
 
   Grad_Students:
     - name: Shanice Bailey
