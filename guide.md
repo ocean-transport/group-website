@@ -5,6 +5,12 @@ This document borrows heavily from similar efforts by colleagues such as
 [Katy Huff](http://arfc.npre.illinois.edu/manual)
 and [Baylor Fox Kemper](http://www.geo.brown.edu/research/Fox-Kemper/pubs/)
 
+## Update 2020-09
+
+See my blog post entitled
+[Advising and Collaborating During a Pandemic and Sabbatical](https://medium.com/@rabernat/advising-and-collaborating-during-a-pandemic-and-sabbatical-ca9531b82b6d) for an update on the current situation in our research group.
+
+
 ## Core Principles
 1. **Respect others**: abide by the code of conduct.
 1. **Work hard**: we are all here because we are passionate about science and want to make a big impact on our field.
@@ -14,7 +20,6 @@ and [Baylor Fox Kemper](http://www.geo.brown.edu/research/Fox-Kemper/pubs/)
 1. **Take care of yourself**: your physical and mental health is paramount.
 
 These principles are explained in more specific detail below.
-
 ## Respect Others: Code of Conduct
 
 All Columbia university employees and students must understand and comply with the University's

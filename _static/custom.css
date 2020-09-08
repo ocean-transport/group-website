@@ -33,17 +33,25 @@ div.body h2 {
   font-size: 150%;
   padding: 2px 0 2px 4px;
 }
-
 /* stuff for the people page */
 
-img.float-right {
+img.biopic {
   float: right;
+  margin-left: 15px;
 }
 
 div.section::after {
   content: "";
   clear: both;
   display: table;
+}
+
+#group-members.section h3::before {
+  clear: both;
+}
+
+
+#group-members.section img {
 }
 
 th, td {
