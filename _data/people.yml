@@ -14,7 +14,7 @@ current:
       orcid: 0000-0001-5999-4917
       twitter: rabernat
       linkedin: ryan-abernathey-32a70652
-      
+
   Research Scientists:
     - name: Julius Busecke
       pronouns: he / him
@@ -27,7 +27,7 @@ current:
       website: http://www.juliusbusecke.com
       orcid: 0000-0001-8571-865X
       scholar: nXQo4RkAAAAJ
-      
+
 
   Software_Engineers:
     - name: Charles Blackmon-Luca
@@ -46,23 +46,23 @@ current:
       pronouns: he / him
       pic: spencer.jpg
       bio: >
-        Spencer is a postdoc in the Ocean Transport Group. 
-        He studies the global ocean circulation and large-scale effects of ocean mixing. 
-        Spencer also enjoys reading and going to the theater. 
+        Spencer is a postdoc in the Ocean Transport Group.
+        He studies the global ocean circulation and large-scale effects of ocean mixing.
+        Spencer also enjoys reading and going to the theater.
       email: spencerj@ldeo.columbia.edu
       website: https://cspencerjones.github.io/
       scholar: PaYh9SIAAAAJ
       github: cspencerjones
       orcid: 0000-0003-1094-0306
       twitter: CSpencerJones
-      
+
     - name: Paige Martin
       pronouns: she / her
       pic: paige.jpg
       bio: >
-         Paige is a postdoc in the Climate Data Science Lab and is currently based at the Australian National University. 
+         Paige is a postdoc in the Climate Data Science Lab and is currently based at the Australian National University.
          She likes to use Python and open-source tools to study coupled ocean-atmosphere dynamics.
-         Paige also enjoys doing musical theater, aerial arts, and handstands. 
+         Paige also enjoys doing musical theater, aerial arts, and handstands.
       email: paigemar@umich.edu
       github: paigem
       orcid: 0000-0003-3538-633X
@@ -81,13 +81,9 @@ current:
       bio: >
         Shanice is a graduate student in the Ocean Transport Group.
         She currently studies bottom water formation and the internal dynamics of the Weddell Gyre.
-        Shanice also enjoys boxing, hiking, and watching documentaries. 
+        Shanice also enjoys boxing, hiking, and watching documentaries.
       email: stb2145@columbia.edu
       github: stb2145
-
-  Undergrad_Students:
-    - name: Scout Jiang
-      pronouns: she / her
 
 alumni:
   - name: Anirban Sinha

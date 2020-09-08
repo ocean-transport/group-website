@@ -9,15 +9,16 @@ Group Members
     ----------------------------------
 
     {% for person in cat_people %}
+
+    {{ person.name }}
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
     {% if person.pic %}
     .. image:: _static/photos/{{ person.pic }}
        :width: 200px
        :alt: {{ person.name }}
-       :class: float-right
-
+       :class: biopic
     {% endif %}
-    {{ person.name }}
-    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
     {% if person.email %}
     {{ person.email }}
@@ -64,7 +65,9 @@ Group Members
         :target: {{ person.website }}
     {% endif %}
 
+
     {{ person.bio }}
+
 
     {% endfor %}
     {% endfor %}
