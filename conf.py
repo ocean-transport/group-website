@@ -25,6 +25,13 @@ import recommonmark
 from recommonmark.transform import AutoStructify
 
 
+from pybtex.style.formatting.unsrt import Style as UnsrtStyle
+from pybtex.style.template import words, sentence, optional
+from pybtex.style.sorting import BaseSortingStyle
+from pybtex.plugin import register_plugin
+
+
+
 # -- General configuration ------------------------------------------------
 
 # If your documentation needs a minimal Sphinx version, state it here.
@@ -85,6 +92,53 @@ pygments_style = 'sphinx'
 # If true, `todo` and `todoList` produce output, else they produce nothing.
 todo_include_todos = True
 
+
+class DateSortingStyle(BaseSortingStyle):
+
+    def sorting_key(self, entry):
+        if entry.type in ('book', 'inbook'):
+            author_key = self.author_editor_key(entry)
+        elif 'author' in entry.persons:
+            author_key = self.persons_key(entry.persons['author'])
+        else:
+            author_key = ''
+        return (entry.fields.get('year', ''), author_key, entry.fields.get('title', ''))
+
+    def sort(self, entries):
+        return sorted(entries, key=self.sorting_key, reverse=False)
+
+    def persons_key(self, persons):
+        return '   '.join(self.person_key(person) for person in persons)
+
+    def person_key(self, person):
+        return '  '.join((
+            ' '.join(person.prelast_names + person.last_names),
+            ' '.join(person.first_names + person.middle_names),
+            ' '.join(person.lineage_names),
+        )).lower()
+
+    def author_editor_key(self, entry):
+        if entry.persons.get('author'):
+            return self.persons_key(entry.persons['author'])
+        elif entry.persons.get('editor'):
+            return self.persons_key(entry.persons['editor'])
+        else:
+            return ''
+
+
+register_plugin('pybtex.style.sorting', 'date', DateSortingStyle)
+
+
+class NoWebRefStyle(UnsrtStyle):
+    default_sorting_style = 'date'
+
+    def format_web_refs(self, e):
+        return sentence [
+            optional [ self.format_doi(e) ],
+            ]
+
+
+register_plugin('pybtex.style.formatting', 'nowebref', NoWebRefStyle)
 
 # -- Options for HTML output ----------------------------------------------
 

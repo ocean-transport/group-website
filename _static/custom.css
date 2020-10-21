@@ -1,6 +1,6 @@
 body {
   background-image: url("header-bg.jpg");
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-attachment: fixed;
 }
 
@@ -52,6 +52,16 @@ div.section::after {
 
 
 #group-members.section img {
+}
+
+#publications ol {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+#publications li {
+  padding: 5px 0 15px 10px;
+  flex: 0 0 auto;
 }
 
 th, td {

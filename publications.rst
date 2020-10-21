@@ -3,4 +3,5 @@ Publications
 
 .. bibliography:: references.bib
    :all:
-   :style: unsrt
+   :list: enumerated
+   :style: nowebref
