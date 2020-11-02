@@ -69,6 +69,21 @@ current:
       twitter: SciencePaige
       linkedin: paige-martin-phd
 
+    - name: Hillary Scannell
+      pronouns: she / her
+      pic: hillary.jpg
+      bio: >
+         Hillary is a postdoc in the Climate Data Science Lab. 
+         She is an expert on marine heatwaves and uses data science to better understand the complex spatiotemporal variability of geophysical fluids.  
+         Hillary is an outdoor enthusiast originally from Maine and is passionate about land conservation. 
+      email: hs3277@columbia.edu
+      website: https://www.hillaryscannell.com/
+      scholar: dcS9xykAAAAJ
+      github: hscannell
+      orcid: 0000-0002-6604-1695
+      twitter: HillaryScannell
+      linkedin: hillary-scannell
+      
     - name: Mu Xu
       pronouns: he / him
       email: muxu@ldeo.columbia.edu
