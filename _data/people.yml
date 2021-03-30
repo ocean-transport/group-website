@@ -54,6 +54,19 @@ current:
       github: charlesbluca
       linkedin: charlesbluca
 
+    - name: Tom Nicholas
+      pronouns: he / him
+      pic: tom.jpg
+      bio: >
+         Tom is a research software engineer in the Climate Data Science Lab.
+         He is keen to improve the software tools available to all scientists.
+         His interests include climate activism, playing his guitar, and gymnastics.
+      email: ten2113@columbia.edu
+      website: tom-nicholas.com
+      github: TomNicholas
+      twitter: TEGNicholas
+      linkedin: tom-nicholas
+
   Postdocs:
     - name: Paige Martin
       pronouns: she / her
