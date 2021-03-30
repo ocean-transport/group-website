@@ -27,21 +27,7 @@ current:
       website: http://www.juliusbusecke.com
       orcid: 0000-0001-8571-865X
       scholar: nXQo4RkAAAAJ
-
-
-  Software_Engineers:
-    - name: Charles Blackmon-Luca
-      pronouns: he / him
-      pic: charles.jpg
-      bio: >
-        Charles is a software engineer in the Ocean Transport Group.
-        His work is primarily focused on Pangeo, an open source community platform for big data geoscience.
-        His interests include cloud-based data science, biking, and gaming.
-      email: c.blackmon@columbia.edu
-      github: charlesbluca
-      linkedin: charlesbluca
-
-  Postdocs:
+      
     - name: Spencer Jones
       pronouns: he / him
       pic: spencer.jpg
@@ -56,6 +42,19 @@ current:
       orcid: 0000-0003-1094-0306
       twitter: CSpencerJones
 
+  Software_Engineers:
+    - name: Charles Blackmon-Luca
+      pronouns: he / him
+      pic: charles.jpg
+      bio: >
+        Charles is a software engineer in the Ocean Transport Group.
+        His work is primarily focused on Pangeo, an open source community platform for big data geoscience.
+        His interests include cloud-based data science, biking, and gaming.
+      email: c.blackmon@columbia.edu
+      github: charlesbluca
+      linkedin: charlesbluca
+
+  Postdocs:
     - name: Paige Martin
       pronouns: she / her
       pic: paige.jpg
