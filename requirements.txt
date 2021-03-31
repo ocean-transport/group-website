@@ -2,5 +2,5 @@ sphinx
 doctr
 recommonmark
 sphinx-markdown-tables
-sphinxcontrib-bibtex
+sphinxcontrib-bibtex==1.0.0
 sphinx-jinja
