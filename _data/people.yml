@@ -102,7 +102,13 @@ current:
       github: stb2145
 
 alumni:
-  - name: Anirban Sinha
+  - name: Charles Blackmon-Luca
+    position: Software Engineer, 2019-2020
+    current_position: Systems Software Engineer at NVIDIA
+    github: charlesbluca
+    linkedin: charlesbluca
+    
+    - name: Anirban Sinha
     position: Ph.D. Student, 2014-2019
     current_position: Postdoc, Caltech
     github: anirban89
@@ -123,3 +129,4 @@ alumni:
     position: Postdoc, 2014-2016
     current_position: Postdoc, University of New South Wales
     website: https://www.sjoerdgroeskamp.com
+
