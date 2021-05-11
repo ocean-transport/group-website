@@ -56,6 +56,19 @@ current:
       twitter: TEGNicholas
       linkedin: tom-nicholas
 
+    - name: Charles Stern
+      pronouns: he / him
+      pic: charles.jpg
+      bio: >
+         Charles is a Data Infrastructure Engineer working on Pangeo Forge.
+         He is endlessly curious about elegant, open-source tools that help us understand our changing planet.
+         Charles loves exploring in the mountains and tinkering with anything electronic or mechanical.
+      email: cstern@ldeo.columbia.edu
+      website: http://cstern.io
+      github: cisaacstern
+      twitter: charlesstern
+      linkedin: charles-stern-ab965b29
+
   Postdocs:
     - name: Paige Martin
       pronouns: she / her
