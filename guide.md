@@ -217,11 +217,38 @@ in all of them.
 
 ### Group Meeting
 
-Group meetings are currently held every other Monday at 11:30 AM at Lamont.
-This time may change from semester to semester to accommodate the changing
+The group meetings times may change from semester to semester to accommodate the changing
 schedules of group memebers.
 Everyone should attend group meeting as much as possible. If you have a conflict
 which prevents you from attending, let Prof. Abernathey know ahead of time.
+
+### Scheduled Meetings
+
+Meetings are a part of science.
+In order to get the most out of meetings, especially as a meeting convener,
+it's highly recommended to review Greg Wilson's notes on
+[how to run a meeting](https://buildtogether.tech/important/#meetings).
+
+When scheduling meetings, everyone should use the Google Calendar that comes with
+their [LDEO GSuite account](https://ldeo-it.ldeo.columbia.edu/content/g-suite-ldeo).
+Each meeting should correspond to a calendar event.
+Attendees should be added via email to the "guests" section of the event.
+The event should includes a physical location or Zoom link.
+Attach any agendas or other notes to the calendar event which can help provide context.
+Meetings should only be scheduled during reasonable work hours, with exceptions made to accomodate
+colleagues in other timezones.
+
+When you are the one calling the meeting, you should create the calendar event and agenda yourself
+and share it with the other attendees.
+When you are invited to a meeting, a notification will go to your email and appear on you 
+Google Calendar; you should either "accept" or "decline" these invitiation so everyone
+else is aware of your availability.
+
+Missing meetings for which you have accepted an invitation is unprofessional and should be
+avoided as much as possible.
+Acceptable reasons to miss a meeting include medical or familiy emergencies.
+If you anticipate missing a meeting you have committed to, send a note to the meeting chair as soon as possible.
+If you miss a meeting unexpectedly, a note of explanation / apology may be appropriate.
 
 ## Self Care
 
