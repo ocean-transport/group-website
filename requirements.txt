@@ -3,4 +3,5 @@ doctr
 recommonmark
 sphinx-markdown-tables
 sphinxcontrib-bibtex==1.0.0
+sphinx-book-theme
 sphinx-jinja
