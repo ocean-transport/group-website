@@ -38,4 +38,4 @@ jobs:
         publish_dir: _build/html
         full_commit_message: "GitHub action book deploy"
         deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-        external_repository: ocean-transport/external-repository
+        external_repository: ocean-transport/ocean-transport.github.io
