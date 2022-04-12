@@ -8,7 +8,7 @@ current:
         Besides all the science stuff described here, Ryan enjoys spending time with
         his young son, playing the fiddle, and spending time in the mountains.
       email: rpa@ldeo.columbia.edu
-      website: http://rabernat.github.io
+      website: http://github.com/rabernat
       scholar: t1lmjVkAAAAJ
       github: rabernat
       orcid: 0000-0001-5999-4917
@@ -27,17 +27,17 @@ current:
       website: http://www.juliusbusecke.com
       orcid: 0000-0001-8571-865X
       scholar: nXQo4RkAAAAJ
-      
+
     - name: Dhruv Balwada
       pronouns: he / him
       pic: dhruv.jpg
       bio: >
-        Dhruv is an assistant research scientist in the Ocean Transport Group and 
+        Dhruv is an assistant research scientist in the Ocean Transport Group and
         is also associated with [M2LInES](https://m2lines.github.io).
-        He studies stirring, mixing, and multi-scale interactions in the ocean, 
-        with the goal of improving our fundamental understanding and parameterizations of 
+        He studies stirring, mixing, and multi-scale interactions in the ocean,
+        with the goal of improving our fundamental understanding and parameterizations of
         ocean turbulence.
-        Dhruv enjoys being physically active; learning about cognitive science, human experience, and economics through podcasts and books; 
+        Dhruv enjoys being physically active; learning about cognitive science, human experience, and economics through podcasts and books;
         and sometimes tries to pursue fun and happiness.
       email: dbalwada@ldeo.columbia.edu
       website: https://dhruvbalwada.github.io/
@@ -86,7 +86,7 @@ current:
       orcid: 0000-0003-3538-633X
       twitter: SciencePaige
       linkedin: paige-martin-phd
-      
+
   Grad_Students:
     - name: Shanice Bailey
       pronouns: she / her
@@ -101,24 +101,24 @@ current:
 alumni:
   - name: Hillary Scannell
     position: Postdoc, 2020-2021
-    current position: Data Scientist, Jupiter Intelligence
+    current_position: Data Scientist, Jupiter Intelligence
     website: https://www.hillaryscannell.com/
-  
+
   - name: Spencer Jones
-    position: Postdoc, 2018-2020; ARS, 2020-2021. 
-    current position: Assistant Professor, Texas A&M University
+    position: Postdoc, 2018-2020; ARS, 2020-2021.
+    current_position: Assistant Professor, Texas A&M University
     website: https://cspencerjones.github.io/
-    
+
   - name: Mu Xu
     position: Postdoc, 2018-2021
     linkedin: mu-xu-9305a864
-    
+
   - name: Charles Blackmon-Luca
     position: Software Engineer, 2019-2020
     current_position: Systems Software Engineer at NVIDIA
     github: charlesbluca
     linkedin: charlesbluca
-    
+
   - name: Anirban Sinha
     position: Ph.D. Student, 2014-2019
     current_position: Postdoc, Los-Alamos National Laboratory
@@ -140,4 +140,3 @@ alumni:
     position: Postdoc, 2014-2016
     current_position: Assistant Professor, Royal Netherlands Institute for Sea Research/ NIOZ
     website: https://www.sjoerdgroeskamp.com
-
