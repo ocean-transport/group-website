@@ -1,7 +1,4 @@
 Publications
 ============
 
-.. bibliography:: references.bib
-   :all:
-   :list: enumerated
-   :style: nowebref
+Publications are all on Google Scholar: https://scholar.google.com/citations?user=t1lmjVkAAAAJ&hl=en

@@ -8,7 +8,7 @@ current:
         Besides all the science stuff described here, Ryan enjoys spending time with
         his young son, playing the fiddle, and spending time in the mountains.
       email: rpa@ldeo.columbia.edu
-      website: http://rabernat.github.io
+      website: http://github.com/rabernat
       scholar: t1lmjVkAAAAJ
       github: rabernat
       orcid: 0000-0001-5999-4917
@@ -27,20 +27,24 @@ current:
       website: http://www.juliusbusecke.com
       orcid: 0000-0001-8571-865X
       scholar: nXQo4RkAAAAJ
-      
-    - name: Spencer Jones
+
+    - name: Dhruv Balwada
       pronouns: he / him
-      pic: spencer.jpg
+      pic: dhruv.jpg
       bio: >
-        Spencer is a postdoc in the Ocean Transport Group.
-        He studies the global ocean circulation and large-scale effects of ocean mixing.
-        Spencer also enjoys reading and going to the theater.
-      email: spencerj@ldeo.columbia.edu
-      website: https://cspencerjones.github.io/
-      scholar: PaYh9SIAAAAJ
-      github: cspencerjones
-      orcid: 0000-0003-1094-0306
-      twitter: CSpencerJones
+        Dhruv is an assistant research scientist in the Ocean Transport Group and
+        is also associated with [M2LInES](https://m2lines.github.io).
+        He studies stirring, mixing, and multi-scale interactions in the ocean,
+        with the goal of improving our fundamental understanding and parameterizations of
+        ocean turbulence.
+        Dhruv enjoys being physically active; learning about cognitive science, human experience, and economics through podcasts and books;
+        and sometimes tries to pursue fun and happiness.
+      email: dbalwada@ldeo.columbia.edu
+      website: https://dhruvbalwada.github.io/
+      scholar: e_C8ZrkAAAAJ&hl
+      github: dhruvbalwada
+      orcid: 0000-0001-6632-0187
+      twitter: BalwadaDhruv
 
   Software_Engineers:
     - name: Tom Nicholas
@@ -50,8 +54,8 @@ current:
          Tom is a research software engineer in the Climate Data Science Lab.
          He is keen to improve the software tools available to all scientists.
          His interests include climate activism, playing his guitar, and gymnastics.
-      email: ten2113@columbia.edu
       website: http://tom-nicholas.com
+      email: thomas.nicholas@columbia.edu
       github: TomNicholas
       twitter: TEGNicholas
       linkedin: tom-nicholas
@@ -83,26 +87,6 @@ current:
       twitter: SciencePaige
       linkedin: paige-martin-phd
 
-    - name: Hillary Scannell
-      pronouns: she / her
-      pic: hillary.jpg
-      bio: >
-         Hillary is a postdoc in the Climate Data Science Lab. 
-         She is an expert on marine heatwaves and uses data science to better understand the complex spatiotemporal variability of geophysical fluids.  
-         Hillary is an outdoor enthusiast originally from Maine and is passionate about land conservation. 
-      email: scannell@ldeo.columbia.edu
-      website: https://www.hillaryscannell.com/
-      scholar: dcS9xykAAAAJ
-      github: hscannell
-      orcid: 0000-0002-6604-1695
-      twitter: HillaryScannell
-      linkedin: hillary-scannell
-      
-    - name: Mu Xu
-      pronouns: he / him
-      email: muxu@ldeo.columbia.edu
-      linkedin: mu-xu-9305a864
-
   Grad_Students:
     - name: Shanice Bailey
       pronouns: she / her
@@ -115,15 +99,29 @@ current:
       github: stb2145
 
 alumni:
+  - name: Hillary Scannell
+    position: Postdoc, 2020-2021
+    current_position: Data Scientist, Jupiter Intelligence
+    website: https://www.hillaryscannell.com/
+
+  - name: Spencer Jones
+    position: Postdoc, 2018-2020; ARS, 2020-2021.
+    current_position: Assistant Professor, Texas A&M University
+    website: https://cspencerjones.github.io/
+
+  - name: Mu Xu
+    position: Postdoc, 2018-2021
+    linkedin: mu-xu-9305a864
+
   - name: Charles Blackmon-Luca
     position: Software Engineer, 2019-2020
     current_position: Systems Software Engineer at NVIDIA
     github: charlesbluca
     linkedin: charlesbluca
-    
+
   - name: Anirban Sinha
     position: Ph.D. Student, 2014-2019
-    current_position: Postdoc, Caltech
+    current_position: Postdoc, Los-Alamos National Laboratory
     github: anirban89
 
   - name: Takaya Uchida
@@ -140,6 +138,5 @@ alumni:
 
   - name: Sjoerd Groeskamp
     position: Postdoc, 2014-2016
-    current_position: Postdoc, University of New South Wales
+    current_position: Assistant Professor, Royal Netherlands Institute for Sea Research/ NIOZ
     website: https://www.sjoerdgroeskamp.com
-

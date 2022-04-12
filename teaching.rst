@@ -7,7 +7,7 @@ Research Computing in Earth Science
 .. figure:: _static/delaunay.png
    :alt: rces
 
-https://github.com/rabernat/research_computing
+https://earth-env-data-science.github.io
 
 An intensive and hands-on immersion in the application on modern
 research computing practices to data analysis and visualization, using
@@ -21,11 +21,11 @@ Introduction to Physical Oceanography
 .. figure:: _static/intro_po.jpg
    :alt: ocean image
 
-http://www.columbia.edu/cu/bulletin/uwb/subj/EESC/W4210-20151-001/
+https://rabernat.github.io/intro_to_physical_oceanography
 
 Physical properties of seawater, ocean water masses and their
 distribution, sea-air interaction, ocean general circulation, mixing
-processes. Co-taught with Arnold Gordon
+processes.
 
 Fall 2013, Fall 2014, Fall 2015, Fall 2017, Fall 2018, Fall 2019
 
