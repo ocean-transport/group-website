@@ -97,6 +97,19 @@ current:
         Shanice also enjoys boxing, hiking, and watching documentaries.
       email: stb2145@columbia.edu
       github: stb2145
+      
+    - name: Christopher Dupuis
+      pronouns: he / him
+      pic: chris.jpg
+      bio: >
+        Chris is a graduate student in the Ocean Transport Group, studying Applied Math.
+        He is currently studying neural network methods for ocean surface currents. He also has extensive experience with PCA methods and scientific software development.
+        Chris likes long road trips, exploring new places, bad horror movies, and underground music scenes.
+      email: cd3207@columbia.edu
+      scholar: 1BBq4wcAAAAJ
+      github: cmdupuis3
+      orcid: 0000-0001-5999-4917
+      linkedin: christopher-dupuis-a2207a9b
 
 alumni:
   - name: Hillary Scannell
