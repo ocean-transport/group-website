@@ -47,7 +47,7 @@ extensions = ['sphinx.ext.intersphinx',
     'sphinx.ext.githubpages',
     'recommonmark',
     'sphinxcontrib.bibtex',
-    'sphinxcontrib.jinja'
+    'sphinx_jinja'
     ]
 
 # Add any paths that contain templates here, relative to this directory.
