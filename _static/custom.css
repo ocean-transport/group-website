@@ -4,36 +4,10 @@ body {
   background-attachment: fixed;
 }
 
-div.body {
-  padding: 15px 30px 30px 30px;
+div.row {
   background-color: rgba(255, 255, 255, 1.0);
-  /* border-style: solid;
-  border-width: 2px;
-  border-color: black; */
-  border-radius: 15px;
 }
 
-div.sphinxsidebarwrapper {
-  background-color: rgba(255, 255, 255, 1.0);
-  margin-right: 10px;
-  border-radius: 15px;
-}
-
-div.footer {
-  background-color: rgba(255, 255, 255, 1.0);
-  padding: 10px;
-  border-radius: 15px;
-}
-
-div.body h2 {
-  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
-    Helvetica, Arial, "Lucida Grande", sans-serif;
-  color: #387AB5;
-  background-color: #eee;
-  font-size: 150%;
-  padding: 2px 0 2px 4px;
-}
-/* stuff for the people page */
 
 img.biopic {
   float: right;
