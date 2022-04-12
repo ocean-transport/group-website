@@ -249,6 +249,6 @@ def setup(app):
 jinja_contexts = {}
 import yaml
 with open('_data/people.yml') as people_data_file:
-    people = yaml.load(people_data_file)
+    people = yaml.safe_load(people_data_file)
     jinja_contexts['people'] = {'people': people['current']}
     jinja_contexts['alumni'] = {'alumni': people['alumni']}
