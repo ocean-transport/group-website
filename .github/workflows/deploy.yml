@@ -31,7 +31,7 @@ jobs:
 
     # Deploy the book's html
     - name: GitHub Pages action
-      if: github.ref == 'refs/heads/main'
+      if: github.ref == 'refs/heads/master'
       uses: peaceiris/actions-gh-pages@v3
       with:
         publish_branch: gh-pages
