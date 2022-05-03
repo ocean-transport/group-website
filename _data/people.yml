@@ -8,60 +8,136 @@ current:
         Besides all the science stuff described here, Ryan enjoys spending time with
         his young son, playing the fiddle, and spending time in the mountains.
       email: rpa@ldeo.columbia.edu
-      website: http://rabernat.github.io
+      website: http://github.com/rabernat
       scholar: t1lmjVkAAAAJ
       github: rabernat
       orcid: 0000-0001-5999-4917
       twitter: rabernat
       linkedin: ryan-abernathey-32a70652
 
+  Research Scientists:
+    - name: Julius Busecke
+      pronouns: he / him
+      pic: julius.jpg
+      bio: >
+        Julius is an assistant research scientist in the Climate Data Science Lab. He is an oceanographer interested in ocean physics and biogeochemistry using a variety of tools and datasets.
+        In his freetime he enjoys photography, biking and climbing.
+      github: jbusecke
+      twitter: JuliusBusecke
+      website: http://www.juliusbusecke.com
+      orcid: 0000-0001-8571-865X
+      scholar: nXQo4RkAAAAJ
+
+    - name: Dhruv Balwada
+      pronouns: he / him
+      pic: dhruv.jpg
+      bio: >
+        Dhruv is an assistant research scientist in the Ocean Transport Group and
+        is also associated with [M2LInES](https://m2lines.github.io).
+        He studies stirring, mixing, and multi-scale interactions in the ocean,
+        with the goal of improving our fundamental understanding and parameterizations of
+        ocean turbulence.
+        Dhruv enjoys being physically active; learning about cognitive science, human experience, and economics through podcasts and books;
+        and sometimes tries to pursue fun and happiness.
+      email: dbalwada@ldeo.columbia.edu
+      website: https://dhruvbalwada.github.io/
+      scholar: e_C8ZrkAAAAJ&hl
+      github: dhruvbalwada
+      orcid: 0000-0001-6632-0187
+      twitter: BalwadaDhruv
+
   Software_Engineers:
-    - name: Charles Blackmon-Luca
+    - name: Tom Nicholas
+      pronouns: he / him
+      pic: tom.jpg
+      bio: >
+         Tom is a research software engineer in the Climate Data Science Lab.
+         He is keen to improve the software tools available to all scientists.
+         His interests include climate activism, playing his guitar, and gymnastics.
+      website: http://tom-nicholas.com
+      email: thomas.nicholas@columbia.edu
+      github: TomNicholas
+      twitter: TEGNicholas
+      linkedin: tom-nicholas
+
+    - name: Charles Stern
       pronouns: he / him
       pic: charles.jpg
       bio: >
-        Charles is a software engineer in the Ocean Transport Group.
-        His work is primarily focused on Pangeo, an open source community platform for big data geoscience.
-        His interests include cloud-based data science, biking, and gaming.
-      email: c.blackmon@columbia.edu
-      github: charlesbluca
-      linkedin: charlesbluca
+         Charles is a Data Infrastructure Engineer working on Pangeo Forge.
+         He is endlessly curious about elegant, open-source tools that help us understand our changing planet.
+         Charles loves exploring in the mountains and tinkering with anything electronic or mechanical.
+      email: cstern@ldeo.columbia.edu
+      website: http://cstern.io
+      github: cisaacstern
+      twitter: charlesstern
+      linkedin: charles-stern-ab965b29
 
   Postdocs:
-    - name: Spencer Jones
-      pronouns: he / him
-      pic: spencer.jpg
+    - name: Paige Martin
+      pronouns: she / her
+      pic: paige.jpg
       bio: >
-        Spencer is a postdoc in the Ocean Transport Group. 
-        He studies the global ocean circulation and large-scale effects of ocean mixing. 
-        Spencer also enjoys reading and going to the theater. 
-      email: spencerj@ldeo.columbia.edu
-      website: https://cspencerjones.github.io/
-      scholar: PaYh9SIAAAAJ
-      github: cspencerjones
-      orcid: 0000-0003-1094-0306
-      twitter: CSpencerJones
-
-    - name: Mu Xu
-      pronouns: he / him
-      email: muxu@ldeo.columbia.edu
-      linkedin: mu-xu-9305a864
+         Paige is a postdoc in the Climate Data Science Lab and is currently based at the Australian National University.
+         She likes to use Python and open-source tools to study coupled ocean-atmosphere dynamics.
+         Paige also enjoys doing musical theater, aerial arts, and handstands.
+      email: paigemar@umich.edu
+      github: paigem
+      orcid: 0000-0003-3538-633X
+      twitter: SciencePaige
+      linkedin: paige-martin-phd
 
   Grad_Students:
     - name: Shanice Bailey
       pronouns: she / her
-      pic: bailey.jpg
+      pic: shanice.jpeg
+      bio: >
+        Shanice is a graduate student in the Ocean Transport Group.
+        She currently studies bottom water formation and the internal dynamics of the Weddell Gyre.
+        Shanice also enjoys boxing, hiking, and watching documentaries.
       email: stb2145@columbia.edu
+      website: https://shanicetbailey.github.io/
       github: stb2145
-
-  Undergrad_Students:
-    - name: Scout Jiang
-      pronouns: she / her
+      orcid: 0000-0002-8176-9465
+      linkedin: shanice-bailey-85980b75
+      
+    - name: Christopher Dupuis
+      pronouns: he / him
+      pic: chris.jpg
+      bio: >
+        Chris is a graduate student in the Ocean Transport Group, studying Applied Math.
+        He is currently studying neural network methods for ocean surface currents. He also has extensive experience with PCA methods and scientific software development.
+        Chris likes long road trips, exploring new places, bad horror movies, and underground music scenes.
+      email: cd3207@columbia.edu
+      scholar: 1BBq4wcAAAAJ
+      github: cmdupuis3
+      orcid: 0000-0001-5999-4917
+      linkedin: christopher-dupuis-a2207a9b
 
 alumni:
+  - name: Hillary Scannell
+    position: Postdoc, 2020-2021
+    current_position: Data Scientist, Jupiter Intelligence
+    website: https://www.hillaryscannell.com/
+
+  - name: Spencer Jones
+    position: Postdoc, 2018-2020; ARS, 2020-2021.
+    current_position: Assistant Professor, Texas A&M University
+    website: https://cspencerjones.github.io/
+
+  - name: Mu Xu
+    position: Postdoc, 2018-2021
+    linkedin: mu-xu-9305a864
+
+  - name: Charles Blackmon-Luca
+    position: Software Engineer, 2019-2020
+    current_position: Systems Software Engineer at NVIDIA
+    github: charlesbluca
+    linkedin: charlesbluca
+
   - name: Anirban Sinha
     position: Ph.D. Student, 2014-2019
-    current_position: Postdoc, Caltech
+    current_position: Postdoc, Los-Alamos National Laboratory
     github: anirban89
 
   - name: Takaya Uchida
@@ -78,5 +154,5 @@ alumni:
 
   - name: Sjoerd Groeskamp
     position: Postdoc, 2014-2016
-    current_position: Postdoc, University of New South Wales
+    current_position: Assistant Professor, Royal Netherlands Institute for Sea Research/ NIOZ
     website: https://www.sjoerdgroeskamp.com

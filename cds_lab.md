@@ -46,8 +46,3 @@ We plan to cultivate the following principles:
 - Developing reusable tools (e.g. software) is a valuable contribution to scientific research.
 - Open data, open source, and computational reproducibility are integral to every scientific project
 - When it comes to publications, quality is more important than quantity.
-
-## Open Positions
-
-There are several openings for postdocs, research scientists, and research software engineers.
-Formal job postings will be released soon; in the meantime, email [rpa@ldeo.columbia.edu](mailto:rpa@ldeo.columbia.edu) for more information.
