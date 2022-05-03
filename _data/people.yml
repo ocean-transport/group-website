@@ -113,6 +113,13 @@ current:
       github: cmdupuis3
       orcid: 0000-0001-5999-4917
       linkedin: christopher-dupuis-a2207a9b
+      
+    - name: Mochi
+      pic: mochi.jpeg
+      bio: >
+        Mochi is the Ocean Transport Group's adorable mascot. He recently discovered his love of the ocean when visiting Woods Hole. 
+        Now, Mochi studies surface waves and the ducks that float on them. When he's not in the water trying to collect duck samples 
+        or in the office working hard for treats, he loves to go for long car rides and be on the trails.
 
 alumni:
   - name: Hillary Scannell
