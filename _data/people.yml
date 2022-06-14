@@ -120,6 +120,16 @@ current:
         Mochi is the Ocean Transport Group's adorable mascot. He recently discovered his love of the ocean when visiting Woods Hole. 
         Now, Mochi studies surface waves and the ducks that float on them. When he's not in the water trying to collect duck samples 
         or in the office working hard for treats, he loves to go for long car rides and be on the trails.
+        
+Undergrad_Students:
+    - name: Zoe Johnson
+      pronouns: she / her
+      pic: zoe.jpeg
+      bio: >
+       Zoe is an undergraduate at Barnard College majoring in Physics. She is interested in the mathematical foundations of oceanography and physical sciences, and is excited to be a part of the lab for the summer. In her spare time, she likes to read, watch stand-up comedy, and go bowling. 
+      email: zcj2000@barnard.edu
+      github: zoecharlotte47
+      orcid: 0000-0001-7658-328X
 
 alumni:
   - name: Hillary Scannell
