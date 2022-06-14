@@ -124,9 +124,10 @@ current:
 Undergrad_Students:
     - name: Zoe Johnson
       pronouns: she / her
-      pic: zoe.jpeg
+      pic: zoe2.jpeg
       bio: >
-       Zoe is an undergraduate at Barnard College majoring in Physics. She is interested in the mathematical foundations of oceanography and physical sciences, and is excited to be a part of the lab for the summer. In her spare time, she likes to read, watch stand-up comedy, and go bowling. 
+         Zoe is an undergraduate at Barnard College majoring in Physics. She is interested in the mathematical foundations of 
+         oceanography and physical sciences, and is excited to be a part of the lab for the summer. In her spare time, she likes          to read, watch stand-up comedy, and go bowling. 
       email: zcj2000@barnard.edu
       github: zoecharlotte47
       orcid: 0000-0001-7658-328X
